@@ -1,0 +1,4 @@
+﻿  Base.cpp
+d:\study\thuctap\bttuan2\bttuan2\base.cpp(63): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+d:\study\thuctap\bttuan2\bttuan2\base.cpp(63): warning C4154: deletion of an array expression; conversion to pointer supplied
+  btTuan2.vcxproj -> D:\study\ThucTap\btTuan2\Debug\btTuan2.exe
